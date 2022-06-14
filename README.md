@@ -8,7 +8,7 @@
 
 ### :chart_with_upwards_trend: Stats
 
-[![noxPHX's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1nd0ne&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![k1nd0ne's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1nd0ne&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1nd0ne&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
