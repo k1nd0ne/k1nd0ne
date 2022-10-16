@@ -14,7 +14,7 @@
 
 ### 📄 Blog
 
-I'm writting articles about digital forensics, you can check them out here : https://forensicxlab.com
+I'm writting articles about digital forensics, you can check them out here : https://www.forensicxlab.com
 <br>
 
 ### 🛠 Tools 
