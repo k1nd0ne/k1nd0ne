@@ -19,8 +19,8 @@ I'm writting articles about digital forensics, you can check them out here : htt
 
 ### 🛠 Tools 
 
-<a href="https://www.forensicxlab.com/VolDemo.html">VolWeb</a> - A Digital memory forensics tool dedicated to investigators
+<a href="https://github.com/k1nd0ne/VolWeb">VolWeb</a> - A Digital memory forensics tool dedicated to investigators
 
 <a href="https://github.com/k1nd0ne/ScapyWifi">ScapyFi</a> - 802.1X protocol exploitation framework using scapy
 
-<a href="https://github.com/k1nd0ne/ScapyWifi">MacOs Security Best Practice</a> - Basic and free hardening features you can use with MacOs
+<a href="https://github.com/k1nd0ne/MacOsSecurity">MacOs Security Best Practice</a> - Basic and free hardening features you can use with MacOs
