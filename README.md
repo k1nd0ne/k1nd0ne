@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h3 align="center">I am working in the digital forensics field.</h3>
+<h3 align="center">I code stuff that I think are useful and enjoy learning with projects.</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=k1nd0ne&style=for-the-badge"/>
@@ -21,6 +21,4 @@ I'm writting articles about digital forensics, you can check them out here : htt
 
 <a href="https://github.com/k1nd0ne/VolWeb">VolWeb</a> - A Digital memory forensics tool dedicated to investigators
 
-<a href="https://github.com/k1nd0ne/ScapyWifi">ScapyFi</a> - 802.1X protocol exploitation framework using scapy
-
-<a href="https://github.com/k1nd0ne/MacOsSecurity">MacOs Security Best Practice</a> - Basic and free hardening features you can use with MacOs
+<a href="https://github.com/forensicxlab/">The Exhume ToolKit & Thanatology</a>
